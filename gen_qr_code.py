@@ -19,7 +19,7 @@ qr.make(fit=True)
 img= qr.make_image(fill='black', black_color='white')
 
 # Save the image
-img.save("qrcode_example.png")
+img.save("qrcode.png")
 
 # Display the image
 img.show()
