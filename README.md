@@ -36,3 +36,5 @@ This is a simple Python application to generate QR codes.
 ## License
 
 This project is licensed under the MIT License!
+
+This is the test for signed commits
